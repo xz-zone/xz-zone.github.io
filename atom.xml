@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>韦阳的博客</title>
+  <title>小洲的博客</title>
   
-  <subtitle>算法码上来</subtitle>
+  <subtitle>记录生活的点点滴滴</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xz-zone.github.io/"/>
-  <updated>2020-04-05T02:43:43.000Z</updated>
+  <updated>2020-11-27T05:32:38.748Z</updated>
   <id>https://xz-zone.github.io/</id>
   
   <author>
-    <name>韦阳</name>
+    <name>小洲</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>十大经典排序算法整理汇总（附代码）</title>
-    <link href="https://xz-zone.github.io/2020/02/16/sort-algorithms/"/>
-    <id>https://xz-zone.github.io/2020/02/16/sort-algorithms/</id>
-    <published>2020-02-16T07:09:23.000Z</published>
-    <updated>2020-04-05T02:43:43.000Z</updated>
+    <title>情报挖掘技巧</title>
+    <link href="https://xz-zone.github.io/2019/01/15/sort-cutting-edge/"/>
+    <id>https://xz-zone.github.io/2019/01/15/sort-cutting-edge/</id>
+    <published>2019-01-15T07:09:23.000Z</published>
+    <updated>2020-11-27T05:32:38.748Z</updated>
     
     <summary type="html">
     
@@ -29,22 +29,43 @@
       
         
         
-          &lt;blockquote&gt;
-&lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot; alt&gt;&lt;/p&gt;
-&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;本文整理并总结了网盘情报挖掘技巧。&lt;/p&gt;
+&lt;h2 id=&quot;中文核心敏感关键词&quot;&gt;&lt;a href=&quot;#中文核心敏感关键词&quot;
         
       
     
     </summary>
     
-      <category term="编程算法" scheme="https://xz-zone.github.io/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+      <category term="情报" scheme="https://xz-zone.github.io/categories/%E6%83%85%E6%8A%A5/"/>
     
     
-      <category term="leetcode" scheme="https://xz-zone.github.io/tags/leetcode/"/>
+      <category term="渗透测试" scheme="https://xz-zone.github.io/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
     
-      <category term="算法" scheme="https://xz-zone.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+  </entry>
+  
+  <entry>
+    <title>看我是如何利用验证码把服务器弄崩溃</title>
+    <link href="https://xz-zone.github.io/2018/07/17/sort-code-audit/"/>
+    <id>https://xz-zone.github.io/2018/07/17/sort-code-audit/</id>
+    <published>2018-07-17T14:30:10.000Z</published>
+    <updated>2020-11-30T05:46:36.754Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;程序下载地址：&lt;a href=&quot;https://pan.baidu.com/s/1pI4rPXI3Fu_AGkea-0VqBQ&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="代码审计" scheme="https://xz-zone.github.io/categories/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/"/>
+    
+    
+      <category term="PHP代码审计" scheme="https://xz-zone.github.io/tags/PHP%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/"/>
     
   </entry>
   

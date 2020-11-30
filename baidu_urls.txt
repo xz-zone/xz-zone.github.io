@@ -1,1 +1,2 @@
-https://xz-zone.github.io/2020/02/16/sort-algorithms/
+https://xz-zone.github.io/2019/01/15/sort-cutting-edge/
+https://xz-zone.github.io/2018/07/17/sort-code-audit/
